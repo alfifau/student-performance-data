@@ -1,4 +1,4 @@
-# Recommender System
+# Data Visualization
 Student performance data visualization is live [here](https://student-performance-data.herokuapp.com/)!
 
 ## Description
